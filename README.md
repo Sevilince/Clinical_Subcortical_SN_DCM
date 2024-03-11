@@ -1,4 +1,4 @@
-##Subcortical_eSN_DCM_Clinical
+## Clinical_Subcortical_eSN_DCM
 
 The display_modulatory_results_and_LOOC_clinical.m script will reproduce the DCM and LOOCV results for modulatory parameters reported in the Ince et al., manuscript. 
 
