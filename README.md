@@ -12,7 +12,7 @@ Each script contains a detailed description of the outputs.
 #GLM
 
 'Group_level_GLM_NEG_NEU' folder contains the group-level GLM results for the negative emotional salience (NEG>NEU contrast) in Ince et al. manuscript. This folder also 
-contains the thresholded NEG>NEU t map (at voxel-wise pFDR < .05, KE ≥ 10) as illustrated in Figure 1C.
+contains the thresholded NEG>NEU t-map (at voxel-wise pFDR < .05, KE ≥ 10) as illustrated in Figure 1C.
 
 
 #Masks
