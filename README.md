@@ -17,13 +17,13 @@ contains the thresholded NEG>NEU t-map (at voxel-wise pFDR < .05, KE ≥ 10) as 
 
 #Masks
 
-'masks' folder contains the Amygdala and Ventrolateral PFC masks used in the Ince et al. manuscript and were obtained from the ALL3 atlas (Rolls et al., 2020)
+'masks' folder contains the Amygdala and Ventrolateral PFC masks used in the Ince et al. manuscript and were obtained from the ALL3 atlas (Rolls et al., 2020).
 
 The PAG mask used in Ince et al. manuscript was obtained from the authors of the Ezra et al. (2015) study. 
 
 
 Ezra M, Faull OK, Jbabdi S, Pattinson KTS. Connectivity-based segmentation of the periaqueductal gray matter in human with brainstem optimized diffusion MRI. Hum Brain Mapp. 2015;36(9):3459–71.
 
-Rolls ET, Huang CC, Lin CP, Feng J, Joliot M. Automated anatomical labelling atlas 3. Neuroimage. 2020;206:116189. Available from: https://doi.org/10.1016/j.neuroimage.2019.116189
+Rolls ET, Huang CC, Lin CP, Feng J, Joliot M. Automated anatomical labelling atlas 3. Neuroimage. 2020;206:116189. Available from: https://doi.org/10.1016/j.neuroimage.2019.116189.
 
 
